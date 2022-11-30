@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome to my Github Portfolio! 👋
+
+### Hello, I'm Shashank and love to explore new technologies.
 
 <!--
 **0xShax2nk/0xShax2nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
