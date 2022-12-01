@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contributions : 
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=0xShax2nk&show_icons=true&theme=neon-dark" 
+/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xShax2nk&theme=github-dark-blue)](https://git.io/streak-stats)
