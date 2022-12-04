@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xShax2nk&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
-## Blogs : 
+
 
 
 <!-- <div style="display: flex; justify-content: space-between;">
@@ -48,6 +48,18 @@ Here are some ideas to get you started:
 
  </div> -->
  
+ ## Social Handles :
+ 
+ 
+ <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="Twitter" width="50px" > </img> </a>
+ <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2335/2335349.png" alt="Discord" width="50px" > </img> </a>
+ <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="Telegram" width="50px" > </img> </a>
+ <a href=""> <img align="" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn" width="50px" > </img> </a>
+ 
+ 
+ 
+## Blogs : 
+ 
  <table>
   <tr>
     <td align="center"> Oracles in Blockchain </td>
@@ -55,8 +67,8 @@ Here are some ideas to get you started:
     
   </tr>
   <tr>
-    <td> <a href="https://codedamn.com/news/blockchain/what-are-oracles-in-blockchain" target="_blank"> <img src="https://wsrv.nl/?url=https%3A%2F%2Fcodedamn-blog.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2022%2F10%2F20120417%2FOracles.png&w=1280&q=70&output=webp" width=450 height=260> </a> </td>
-    <td> <a href="https://codedamn.com/news/solidity/generate-a-random-number" target="_blank"> <img src="https://wsrv.nl/?url=https%3A%2F%2Fcodedamn-blog.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2022%2F09%2F25180327%2FRandom-numbers-in-solidity.png&w=1280&q=70&output=webp" width=450 height=260> </a> </td>
+    <td> <a href="https://codedamn.com/news/blockchain/what-are-oracles-in-blockchain" target="_blank" rel=”noreferrer”> <img src="https://wsrv.nl/?url=https%3A%2F%2Fcodedamn-blog.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2022%2F10%2F20120417%2FOracles.png&w=1280&q=70&output=webp" width=450 height=260> </a> </td>
+    <td> <a href="https://codedamn.com/news/solidity/generate-a-random-number" target="_blank" rel=”noreferrer”> <img src="https://wsrv.nl/?url=https%3A%2F%2Fcodedamn-blog.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2022%2F09%2F25180327%2FRandom-numbers-in-solidity.png&w=1280&q=70&output=webp" width=450 height=260> </a> </td>
    
   </tr>
  </table>
