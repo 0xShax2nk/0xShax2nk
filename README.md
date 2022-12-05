@@ -1,6 +1,11 @@
-# Welcome to my Github Portfolio! 👋
 
-### Hello, I'm Shashank and love to explore new technologies.
+
+
+<img src="https://i.postimg.cc/KzfhY0kC/Github-newcover.png" alt="Github cover" width="1024"> </img>
+
+# <p align="center">Welcome to my Github Portfolio! 👋</p>
+
+### Hello, I'm Shashank and I love to explore new technologies.
 
 <!--
 **0xShax2nk/0xShax2nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +21,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+ ## Social Handles :
+ 
+ 
+ <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="Twitter" width="50px" > </img> </a>
+ <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2335/2335349.png" alt="Discord" width="50px" > </img> </a>
+ <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="Telegram" width="50px" > </img> </a>
+ <a href=""> <img align="" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn" width="50px" > </img> </a>
 
 ## Contributions : 
 
@@ -48,13 +63,6 @@ Here are some ideas to get you started:
 
  </div> -->
  
- ## Social Handles :
- 
- 
- <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="Twitter" width="50px" > </img> </a>
- <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2335/2335349.png" alt="Discord" width="50px" > </img> </a>
- <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="Telegram" width="50px" > </img> </a>
- <a href=""> <img align="" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn" width="50px" > </img> </a>
  
  
  
