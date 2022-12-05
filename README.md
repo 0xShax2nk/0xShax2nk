@@ -1,9 +1,9 @@
 
-
-
-<img src="https://i.postimg.cc/KzfhY0kC/Github-newcover.png" alt="Github cover" width="1024"> </img>
-
 # <p align="center">Welcome to my Github Portfolio! 👋</p>
+
+<img src="https://i.postimg.cc/CLnRt8fb/Github-newcover.png" alt="Github cover" width="1024"> </img>
+
+
 
 ### Hello, I'm Shashank and I love to explore new technologies.
 
