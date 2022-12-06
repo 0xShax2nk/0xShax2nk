@@ -1,7 +1,7 @@
 
 # <p align="center">Welcome to my Github Portfolio! 👋</p>
 
-<img src="https://i.postimg.cc/CLnRt8fb/Github-newcover.png" alt="Github cover" width="1024"> </img>
+<img src="https://i.postimg.cc/sDcD9MnW/0x-Shax2nk.gif" alt="Github cover" width="1024"> </img>
 
 
 
