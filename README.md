@@ -28,8 +28,8 @@ Here are some ideas to get you started:
  ## Social Handles :
  
  
- <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="Twitter" width="50px" > </img> </a>
- <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2335/2335349.png" alt="Discord" width="50px" > </img> </a>
+ <a href="https://twitter.com/Shashanks__07"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="Twitter" width="50px" > </img> </a>
+ <a href="Shax2nk.in#2989"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2335/2335349.png" alt="Discord" width="50px" > </img> </a>
  <a href=""> <img align="left" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="Telegram" width="50px" > </img> </a>
  <a href=""> <img align="" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn" width="50px" > </img> </a>
 
