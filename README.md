@@ -1,7 +1,7 @@
 
 # <p align="center">Welcome to my Github Portfolio! 👋</p>
 
-<img src="https://i.postimg.cc/QC66qgvC/0x-Shax2nk-New.gif" alt="Github cover" width="1024"> </img>
+[![image](https://www.linkpicture.com/q/0x-Shax2nk-New.gif)](https://www.linkpicture.com/view.php?img=LPic643627b09d7111738880765)
 
 
 
